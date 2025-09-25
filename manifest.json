@@ -1,1 +1,12 @@
-{"name": "Zoran 8000 Benchmark", "version": "0.1.0"}
+{
+  "name": "Zoran-Benchmark-4000",
+  "description": "Premier lot de 4000 prompts certifi\u00e9s Zoran aSiM (ID 1\u20134000). Corpus sign\u00e9 LNDT avec SHA-256, timestamp et signature.",
+  "total_prompts": 4000,
+  "lot_range": "ID 1\u20134000",
+  "format": "JSONL sign\u00e9",
+  "sha256_full": "placeholder_for_demo",
+  "timestamp": "2025-09-25T19:58:55.080944Z",
+  "signature": "LNDT/Zoran/Delta-Cert-20250521-040",
+  "license": "MIT",
+  "doi": "10.5281/zenodo.16940525"
+}
