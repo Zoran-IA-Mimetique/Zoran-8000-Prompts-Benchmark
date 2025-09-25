@@ -1,0 +1,2 @@
+MANIFEST – Zoran Results 4001–8000
+results_zoran_4000to8000_signed.jsonl  9d81cf1e20dacb5a6b1dd8c173124fa26b4daf0085ccbe04653e9845e7f84844
